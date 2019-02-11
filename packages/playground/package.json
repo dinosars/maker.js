@@ -11,7 +11,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@types/codemirror": "0.0.38",
-    "@types/marked": "^0.0.28",
+    "@types/marked": "^0.6.0",
     "@types/opentype.js": "^0.7.0",
     "makerjs": "*"
   }
