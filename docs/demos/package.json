@@ -10,7 +10,7 @@
   "author": "Dan Marshall",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@types/marked": "^0.0.28",
+    "@types/marked": "^2.0.1",
     "@types/node": "^10.5.7",
     "@types/opentype.js": "^0.7.0",
     "detective": "^5.1.0",
