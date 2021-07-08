@@ -6,7 +6,7 @@
   "main": "index.js",
   "devDependencies": {
     "@danmarshall/jscad-typings": "^1.0.0",
-    "@types/bezier-js": "0.0.7",
+    "@types/bezier-js": "0.0.9",
     "@types/graham_scan": "^1.0.28",
     "@types/opentype.js": "^0.7.0",
     "@types/pdfkit": "^0.7.36",
